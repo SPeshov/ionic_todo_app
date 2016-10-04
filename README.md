@@ -1,5 +1,5 @@
-# Ionic To-Do app
-To-Do App with AngularJS and Ionic :notebook:
+# Ionic To-Do App :notebook:
+To-Do App with AngularJS and Ionic. 
 
 Demo app based on https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic
 
